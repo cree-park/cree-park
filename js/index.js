@@ -13,5 +13,5 @@
             arr[2].style.transform = `translateX(${mousePos.x * 40}px) translateY(${mousePos.y * 40}px)`;
         });
     });
-    
+
 })();
